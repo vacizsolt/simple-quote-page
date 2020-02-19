@@ -1,7 +1,7 @@
 #d1 {
-  max-width: 650px;
+  max-width: 690px;
   margin: auto;
-  margin-top: 10%;
+  margin-top: 100px;
   text-align: justify;
   text-align: center;
 }
@@ -13,7 +13,7 @@
 }
 #d2 {
   margin: auto;
-  margin-top: 5%;
+  margin-top: 50px;
   text-align: center;
 }
 #p2 {
@@ -25,4 +25,7 @@
 body {
   background: url("assets/freedom.jpg") no-repeat center center fixed;
   background-size: cover;
+}
+p {
+  color: rgb(0, 0, 0, .6)
 }
