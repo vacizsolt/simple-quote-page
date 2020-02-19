@@ -11,3 +11,14 @@
   font-size: 20px;
   line-height: 35px;
 }
+#d2 {
+  margin: auto;
+  margin-top: 5%;
+  text-align: center;
+}
+#p2 {
+  font-family: Times;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 15px;
+}
