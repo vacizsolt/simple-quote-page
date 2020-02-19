@@ -22,3 +22,7 @@
   font-style: oblique;
   font-size: 15px;
 }
+body {
+  background: url("assets/freedom.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
