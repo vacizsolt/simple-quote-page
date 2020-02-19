@@ -1,0 +1,13 @@
+#d1 {
+  max-width: 650px;
+  margin: auto;
+  margin-top: 10%;
+  text-align: justify;
+  text-align: center;
+}
+#p1 {
+  font-family: Arial;
+  text-transform: uppercase;
+  font-size: 20px;
+  line-height: 35px;
+}
